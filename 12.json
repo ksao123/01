@@ -1,0 +1,5 @@
+{
+"spider":"http://tv.laohu.cool/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886",
+"sites":[
+{"key":"testplay","name":"🔗测试我的链接","type":1,"api":"","playUrl":"","ext":"[{\"vod_name\":\"测试视频1\",\"vod_url\":\"https://video.twimg.com/amplify_video/1988028211566178306/vid/avc1/720x1280/JLOxsI8PkW-hriKZ.mp4?tag=21\"}]"}
+]}
