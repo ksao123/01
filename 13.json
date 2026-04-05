@@ -33,24 +33,4 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "xin",
-      "name": "性吧资源",
-      "type": 1,
-      "api": "https://xingba111.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "naixiang",
-      "name": "奶香资源",
-      "type": 1,
-      "api": "https://naixxzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
-  ]
-}
