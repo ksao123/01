@@ -1,5 +1,56 @@
 {
-"spider":"http://tv.laohu.cool/lh260315.jar;md5;f0da1869e7a46e57141d006aa70fe886",
-"sites":[
-{"key":"testplay","name":"🔗测试我的链接","type":1,"api":"","playUrl":"","ext":"[{\"vod_name\":\"测试视频1\",\"vod_url\":\"https://video.twimg.com/amplify_video/1988028211566178306/vid/avc1/720x1280/JLOxsI8PkW-hriKZ.mp4?tag=21\"}]"}
-]}
+  "wallpaper": "./00.jpg",
+  "lives": [
+    {
+      "name": "直播",
+      "url": "./1.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "key": "lzi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baofeng",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujin",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xin",
+      "name": "性吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "naixiang",
+      "name": "奶香资源",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
